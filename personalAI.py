@@ -66,6 +66,6 @@ if __name__ == "__main__":
         elif 'open visual studio' in query:
             codePath = "C:\\Users\\aryan\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)
-        elif 'shut down' in query:
+        elif 'shutdown' in query:
             exit()
          
